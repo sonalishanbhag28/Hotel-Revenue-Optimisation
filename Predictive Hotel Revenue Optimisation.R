@@ -31,7 +31,7 @@ options(stringsAsFactors = FALSE)
 ## =========================
 
 ## Read raw data
-df <- read.csv("/Users/lijiarui/Desktop/NTU/Analytics Strategy/Project/hotel_bookings.csv")
+df <- read.csv("hotel_bookings.csv")
 
 ## Overview of data
 cat("Rows:", nrow(df), " Cols:", ncol(df), "\n")
