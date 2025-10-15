@@ -1,4 +1,4 @@
-# Hotel Booking Analytics
+# Hotel Revenue Optimisation
 
 Analyzing over 110,000 hotel bookings to predict cancellations, segment customers, and optimize pricing. Developed in R using advanced machine learning models including Random Forest, XGBoost, and K-Means clustering.
 
